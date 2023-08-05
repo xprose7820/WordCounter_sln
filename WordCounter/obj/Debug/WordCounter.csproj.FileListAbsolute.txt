@@ -1,0 +1,16 @@
+C:\Users\alexa\Documents\WordCounter\WordCounter\bin\Debug\WordCounter.exe.config
+C:\Users\alexa\Documents\WordCounter\WordCounter\bin\Debug\WordCounter.exe
+C:\Users\alexa\Documents\WordCounter\WordCounter\bin\Debug\WordCounter.pdb
+C:\Users\alexa\Documents\WordCounter\WordCounter\obj\Debug\WordCounter.csproj.AssemblyReference.cache
+C:\Users\alexa\Documents\WordCounter\WordCounter\obj\Debug\WordCounter.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexa\Documents\WordCounter\WordCounter\obj\Debug\MainWindow.g.cs
+C:\Users\alexa\Documents\WordCounter\WordCounter\obj\Debug\App.g.cs
+C:\Users\alexa\Documents\WordCounter\WordCounter\obj\Debug\WordCounter_MarkupCompile.cache
+C:\Users\alexa\Documents\WordCounter\WordCounter\obj\Debug\WordCounter_MarkupCompile.lref
+C:\Users\alexa\Documents\WordCounter\WordCounter\obj\Debug\MainWindow.baml
+C:\Users\alexa\Documents\WordCounter\WordCounter\obj\Debug\WordCounter.g.resources
+C:\Users\alexa\Documents\WordCounter\WordCounter\obj\Debug\WordCounter.Properties.Resources.resources
+C:\Users\alexa\Documents\WordCounter\WordCounter\obj\Debug\WordCounter.csproj.GenerateResource.cache
+C:\Users\alexa\Documents\WordCounter\WordCounter\obj\Debug\WordCounter.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Documents\WordCounter\WordCounter\obj\Debug\WordCounter.exe
+C:\Users\alexa\Documents\WordCounter\WordCounter\obj\Debug\WordCounter.pdb
